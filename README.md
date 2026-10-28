@@ -1,4 +1,4 @@
-# La web rota · Escape room CSS
+# Cine Las Vías · Escape room CSS
 
 Actividad gamificada por equipos para **DAW2 · Diseño de Interfaces Web**. Sirve para repasar:
 
